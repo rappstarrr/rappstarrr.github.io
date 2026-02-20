@@ -1,14 +1,14 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Ellie Rapp",
+    "email": "ellierapp02@gmail.com",
+    "phone": "412-996-4026",
+    "website": "https://rappstarr.github.io",
+    "summary": "Currently employed at Nathan Kline Institute. CWRU Class of 2023, Clinical Psychology PhD Applicant.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
+      "city": "New York",
       "countryCode": "US",
       "region": ""
     },
@@ -16,68 +16,49 @@
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?user=TeTAW0YAAAAJ"
       },
       {
         "network": "ORCID",
         "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "url": "https://orcid.org/0009-0008-9153-5380"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "rappstarr",
+        "url": "https://github.com/rappstarrr"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Case Western Reserve University",
+      "area": "Bachelors of Arts in Psychology (honors), Cognitive Science, Behavioral Neuroscience, and Chemistry",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "startDate": "2019",
+      "endDate": "2023",
       "gpa": null,
       "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
-    }
-  ],
-  "skills": [],
+    },,
+  "skills": [Research management, data analysis, RStudio, IRB preparation, manuscript writing, teamwork-oriented leadership, protocol writing and editing],
   "languages": [],
-  "interests": [],
-  "references": [],
+  "interests": [Crossword puzzles, board games, Pittsburgh sports teams (even when they're bad)],
+  "references": [Meryl Butters, PhD; Swathi Gujral, PhD; Andrea Weinstein, PhD; Juleen Rodakowski, OTD; M. Zachary Rosenthal, PhD; Anzalee Rhodes (nee Khan), PhD; Cris Edwards, CPS, MFA],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "The Relationship between Subjective Cognitive Decline and Objective Cognitive Performance in Older Adults with Treatment-Resistant Late-life Depression: The Role of Depression Severity",
+      "publisher": "The American Journal of Geriatric Psychiatry",
+      "releaseDate": "2025-07",
+      "website": "http://dx.doi.org/10.1016/j.jagp.2025.06.022",
+      "summary": "SCD reported by participants with TRLLD and individuals who know them well, relates to worse cognitive performance in a broad range of domains, independent of depression severity."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "Cognitive Deficits in Late-Life Depression: From Symptoms and Assessment to Therapeutics",
+      "publisher": "Focus",
+      "releaseDate": "2025-04",
+      "website": "http://dx.doi.org/10.1176/appi.focus.20240046",
+      "summary": "This review provides an updated conceptual and practical framework for clinicians evaluating and treating LLD."
     },
     {
       "name": "Paper Title Number 3",
